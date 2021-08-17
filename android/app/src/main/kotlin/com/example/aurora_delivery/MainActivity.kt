@@ -1,4 +1,4 @@
-package com.example.aurora_delivery
+package com.hasankarli.aurora_delivery
 
 import io.flutter.embedding.android.FlutterActivity
 

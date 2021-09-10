@@ -95,7 +95,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "50541bbce1a7df79a4fd222dd80d25cc5efcef6e"
+      resolved-ref: f1b2f8cfb3d5e232bf059af45e3a2a376df5e08a
       url: "https://github.com/hasankarli/flutter_play_asset.git"
     source: git
     version: "0.0.3"
